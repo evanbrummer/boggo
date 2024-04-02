@@ -1,0 +1,29 @@
+body {
+    font-family: Roboto, 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    height: 100%;
+}
+
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    padding: 10px;
+}
+
+td {
+    text-align: center;
+    min-width: 50px;
+}
+
+.boggo-table {
+    font-weight: bold;
+    font-size: 50px;
+}
+
+.game-container {
+    position: fixed;
+    width: 100%;
+    align-content: center;
+}
